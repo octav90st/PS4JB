@@ -1,0 +1,11 @@
+CACHE MANIFEST
+# v1.0 : 15-02-2022
+ 
+index672.html
+PS4.jpg
+common/functions.js
+common/exploit.js
+payloads/goldhen.js
+payloads/disableupdates.js
+payloads/dumper.js
+payloads/hen.js
